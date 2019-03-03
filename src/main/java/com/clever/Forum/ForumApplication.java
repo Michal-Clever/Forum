@@ -13,3 +13,8 @@ public class ForumApplication {
 
 
 }
+//
+//spring.datasource.url = jdbc:mysql://5.135.218.27:3306/CleverMM
+//        spring.datasource.username = oskar
+//        spring.datasource.password = 10135886
+//        spring.jpa.properties.hibernate.id.new_generator_mappings = false
